@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "skills": {
+    "alembic": {
+      "source": "aiskillstore/marketplace",
+      "sourceType": "github",
+      "skillPath": "skills/bossjones/alembic/SKILL.md",
+      "computedHash": "b531fcf192497ee42d7d417254c2b9cfd629b05085f4f6761c8e7a423b1ac54c"
+    },
+    "discovery-interview-prep": {
+      "source": "deanpeters/Product-Manager-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/discovery-interview-prep/SKILL.md",
+      "computedHash": "19c6df1936d385940800a5944162e31e12f0eab3e90015c14448be1548a05686"
+    },
+    "fastapi": {
+      "source": "fastapi/fastapi",
+      "sourceType": "github",
+      "skillPath": "fastapi/.agents/skills/fastapi/SKILL.md",
+      "computedHash": "9feb517089c269af4fdab5031dea1100a92fd50081e906ccfaf8a971858e39f9"
+    },
+    "fullstack-developer": {
+      "source": "Shubhamsaboo/awesome-llm-apps",
+      "sourceType": "github",
+      "skillPath": "awesome_agent_skills/fullstack-developer/SKILL.md",
+      "computedHash": "92f6f4f9bbdde529237f1840d94c4269abb62ad1d5e41d9c76bd14266001cbe8"
+    },
+    "next-cache-components-optimizer": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-optimizer/SKILL.md",
+      "computedHash": "6d766a7df2cc857eae0b37106372c97504a46c3be000193ce82d4be98a4b52f3"
+    },
+    "next-dev-loop": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-dev-loop/SKILL.md",
+      "computedHash": "f9ae81afd8df7933313471bc6e451e7de9184e856590cd94967f15cc3e79ef92"
+    },
+    "next-js-16-launchpad": {
+      "source": "aiskillstore/marketplace",
+      "sourceType": "github",
+      "skillPath": "skills/calel33/next-js-16-launchpad/SKILL.md",
+      "computedHash": "dbcd643b9d969b076337a280b63509b19298183f5eebc2815f9ca4b411070911"
+    },
+    "pydantic-ai": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/pydantic-ai/SKILL.md",
+      "computedHash": "81550748900dbdd5f3ae6158ba8c2c67c627ae9b34bf4cbd4d851ac825c266eb"
+    },
+    "pydantic-models-py": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/pydantic-models-py/SKILL.md",
+      "computedHash": "dd48867678000bdf6ca6bdd78a4b051957b6b28a856ede6858778e689b831367"
+    },
+    "python-pro": {
+      "source": "Jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python-pro/SKILL.md",
+      "computedHash": "bfd83668264345dfa519e5d8f339c64ac7d2b883748d85a26015781e9338fcc9"
+    },
+    "react-hooks": {
+      "source": "HoangNguyen0403/agent-skills-standard",
+      "sourceType": "github",
+      "skillPath": "skills/react/react-hooks/SKILL.md",
+      "computedHash": "5eec60c940eecf3564668c239c7eb4e9e49017cda7767a5d3238f81fd9c70377"
+    },
+    "shadcn-ui": {
+      "source": "nexu-io/open-design",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn-ui/SKILL.md",
+      "computedHash": "96f4b801b6f1041b2b0f794207852e39fbe6baa042a017f414acf74408c8d85f"
+    },
+    "sql-injection-testing": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/sql-injection-testing/SKILL.md",
+      "computedHash": "0614af639ed9dfa3e4bb9d2d18edd4f601628b48cb29f38cbca137fab86e924d"
+    },
+    "sql-optimization-patterns": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/sql-optimization-patterns/SKILL.md",
+      "computedHash": "c3ae349f8cdcb8583998f79deb9b500871c165a27c5ad2bef4875df369f2cd57"
+    },
+    "sql-pro": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/sql-pro/SKILL.md",
+      "computedHash": "1d8040d7019eeccedcd9bfa9df70276a333b3a43ed33ed56cc10864425607a10"
+    },
+    "sqlmap-database-pentesting": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/sqlmap-database-pentesting/SKILL.md",
+      "computedHash": "b8cdd18b7f839f504d335b9b7d7f3077483df9473ece0a2c7672e85c34d8969f"
+    },
+    "zustand": {
+      "source": "lobehub/lobehub",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/zustand/SKILL.md",
+      "computedHash": "7d89ae14703873084fc7188f2d3504a62cf946686fb29363d6521a5451d24af4"
+    }
+  }
+}
